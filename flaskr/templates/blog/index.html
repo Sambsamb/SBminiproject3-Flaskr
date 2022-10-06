@@ -21,7 +21,7 @@
       </header>
       <p class="body">{{ post['body'] }}</p>
     </article>
-    {% if not loop.last %}
+    {% if not loop.last %} <!-- last record in the loop -->
       <hr>
     {% endif %}
   {% endfor %}
