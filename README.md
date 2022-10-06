@@ -13,7 +13,8 @@ This is based on the tutorial at https://flask.palletsprojects.com/en/2.2.x/tuto
 
 See solution hosting options at https://flask.palletsprojects.com/en/2.2.x/deploying/
 
-Possible next step:
+## Possible next step
 
-Deploy in Azure https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli
+[Deploy in Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli)
+
 
