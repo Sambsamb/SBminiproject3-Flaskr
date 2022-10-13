@@ -13,6 +13,11 @@ This is based on the tutorial at https://flask.palletsprojects.com/en/2.2.x/tuto
 
 See solution hosting options at https://flask.palletsprojects.com/en/2.2.x/deploying/
 
+First you need to initialize the database:
+```Python
+flask --app flaskr init-db
+```
+
 To run this locally use:
 ```Python
 flask --app flaskr --debug run
